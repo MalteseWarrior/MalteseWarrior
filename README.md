@@ -4,7 +4,9 @@
 
 🏫 Education
 Sophomore at University of Notre Dame
+
 **Major:** Aerospace Engineering
+
 **Minor:** Computing & Digital Technologies
 
 ✉️ Contact
