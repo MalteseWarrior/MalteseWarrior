@@ -14,6 +14,9 @@ Sophomore at University of Notre Dame
 - **Handshake:** [Ginger Gould](https://app.joinhandshake.com/profiles/u5dzmu)
 - **GitHub:** [MalteseWarrior](https://github.com/MalteseWarrior)
 
+🚧**Current Projects**
+-[Data Science Portfolio](https://github.com/MalteseWarrior/GOULD---Python---Portfolio)
+
 🖱️ **Proficiencies**
 Languages & Tools:
 - **Programming Languages:** Python, MATLAB, Java
