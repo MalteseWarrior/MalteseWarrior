@@ -15,7 +15,7 @@ Sophomore at University of Notre Dame
 - **GitHub:** [MalteseWarrior](https://github.com/MalteseWarrior)
 
 🚧**Current Projects**
--[Data Science Portfolio](https://github.com/MalteseWarrior/GOULD---Python---Portfolio)
+- [Data Science Portfolio](https://github.com/MalteseWarrior/GOULD---Python---Portfolio)
 
 🖱️ **Proficiencies**
 Languages & Tools:
