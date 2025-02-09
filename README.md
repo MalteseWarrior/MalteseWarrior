@@ -23,9 +23,13 @@ Languages & Tools:
 - **CAD Software:** SolidWorks, Fusion, AutoCAD
 - **Program Design Tools:** Unity, Inkscape, Procreate
 
+🥅 **2025 Goals**
+- Become proficient in Streamlit
+- Get through another semester of Aerospace Engineering 💪
+
 ⭐ **About me:**
 
-I am enjoy exploring the interchanging possibilities between Aerospace Engineering and Computing. Whether those possibilities are coding, CAD modeling, or digitial design. I always look forward to solving new challenges and expanding my skills and knowledges.
+I enjoy exploring the interchanging possibilities between Aerospace Engineering and Computing. Whether those possibilities are coding, CAD modeling, or digital design. I look forward to solving new challenges and expanding my skills and knowledge.
 And, I have a Maltese, hence the username!
 
 🎉 **Fun Fact:**
