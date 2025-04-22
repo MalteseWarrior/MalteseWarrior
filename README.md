@@ -17,6 +17,7 @@ Sophomore at University of Notre Dame
 🚧**Current Projects**
 - [Data Science Portfolio](https://github.com/MalteseWarrior/GOULD---Python---Portfolio)
 - [Slashing Data with Wolverine](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/TidyData-Project)
+- [GoofyGoogler](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/NERStreamlitApp)
 
 🖱️ **Proficiencies**
 Languages & Tools:
