@@ -16,10 +16,10 @@ Sophomore at University of Notre Dame
 
 🏁**Finished Projects**
 - [Data Science Portfolio](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO) -- Includes The Projects Below
-- [Basic Streamlit App](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/basic-streamlit-app)
-- [Slashing Data with Wolverine](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/TidyData-Project)
-- [GoofyGoogler](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/NERStreamlitApp)
-- [FlyBuy](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/StreamlitAppFinal)
+- [Basic Streamlit App](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/basic-streamlit-app) - Streamlit
+- [Slashing Data with Wolverine](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/TidyData-Project) - Pygame, pandas, sprites
+- [GoofyGoogler](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/NERStreamlitApp) - NER, sentiment analysis, transformers
+- [FlyBuy](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/StreamlitAppFinal) - Data analysis, live api updates, streamlit, pydeck, plotly
 
 🖱️ **Proficiencies**
 Languages & Tools:
