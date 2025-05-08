@@ -14,11 +14,12 @@ Sophomore at University of Notre Dame
 - **Handshake:** [Ginger Gould](https://app.joinhandshake.com/profiles/u5dzmu)
 - **GitHub:** [MalteseWarrior](https://github.com/MalteseWarrior)
 
-🚧**Current Projects**
-- [Data Science Portfolio](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO)
+🏁**Finished Projects**
+- [Data Science Portfolio](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO) -- Includes The Projects Below
+- [Basic Streamlit App](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/basic-streamlit-app)
 - [Slashing Data with Wolverine](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/TidyData-Project)
 - [GoofyGoogler](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/NERStreamlitApp)
-- [FlyBuy](UNDER CONSTRUCTION)
+- [FlyBuy](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/StreamlitAppFinal)
 
 🖱️ **Proficiencies**
 Languages & Tools:
