@@ -4,7 +4,7 @@
 
 🏫 **Education**
 
-Sophomore at University of Notre Dame
+Junior at University of Notre Dame
 - **Major:** Aerospace Engineering
 - **Minor:** Computing & Digital Technologies
 
@@ -28,7 +28,8 @@ Languages & Tools:
 - **Program Design Tools:** Unity, Inkscape, Procreate
 
 🥅 **2025 Goals**
-- Become proficient in Streamlit
+- Become proficient in n8n
+- Learn Javascript
 - Get through another semester of Aerospace Engineering 💪
 
 ⭐ **About me:**
