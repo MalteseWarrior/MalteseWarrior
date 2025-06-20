@@ -10,7 +10,7 @@ Junior at University of Notre Dame
 
 ✉️ **Contact**
 - **Email:** gingergould22@gmail.com
-- **Linkedin:** [Ginger Gould](www.linkedin.com/in/ginger-gould-15ab50168)
+- **Linkedin:** [Ginger Gould](https://www.linkedin.com/in/ginger-gould-15ab50168/)
 - **Handshake:** [Ginger Gould](https://app.joinhandshake.com/profiles/u5dzmu)
 - **GitHub:** [MalteseWarrior](https://github.com/MalteseWarrior)
 
