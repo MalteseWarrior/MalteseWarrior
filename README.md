@@ -23,18 +23,19 @@ Junior at University of Notre Dame
 
 🖱️ **Proficiencies**
 Languages & Tools:
-- **Programming Languages:** Python, MATLAB, Java
-- **CAD Software:** SolidWorks, Fusion, AutoCAD
+- **Programming Languages:** Python, MATLAB, Java, HTML, JavaScript, Typescript
+- **CAD Software:** SolidWorks, Fusion
 - **Program Design Tools:** Unity, Inkscape, Procreate
 
 🥅 **2025 Goals**
-- Become proficient in n8n
-- Learn Javascript
+- Become proficient in Neural Network modeling
+- Learn other 3D programs such as Rivet, Blender, and Sculpt.
 - Get through another semester of Aerospace Engineering 💪
 
 ⭐ **About me:**
 
-I enjoy exploring the interchanging possibilities between Aerospace Engineering and Computing. Whether those possibilities are coding, CAD modeling, or digital design. I look forward to solving new challenges and expanding my skills and knowledge.
+I enjoy exploring the interchanging possibilities between Aerospace Engineering and Computing. Whether those possibilities are coding, CAD modeling, or digital design. I also seek to implement AI into many of my current and future projects, as I believe it will be a significant part of being an efficient and effective Engineer.
+I look forward to solving new challenges and expanding my skills and knowledge.
 And, I have a Maltese, hence the username!
 
 🎉 **Fun Fact:**
