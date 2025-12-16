@@ -31,7 +31,7 @@ Languages & Tools:
 - **Program Design Tools:** Unity, Inkscape, Procreate
 
 🥅 **2025 Goals**
-- Become proficient in Neural Network modeling
+- Become proficient in Neural Network modeling -> Check out my Viscoelastic ICNN
 - Learn other 3D programs such as Rivet, Blender, and Sculpt.
 - Get through another semester of Aerospace Engineering 💪
 
