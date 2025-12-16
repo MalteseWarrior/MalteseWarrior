@@ -24,6 +24,9 @@ Junior at University of Notre Dame
 - [GoofyGoogler](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/NERStreamlitApp) - NER, sentiment analysis, transformers
 - [FlyBuy](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/StreamlitAppFinal) - Data analysis, live api updates, streamlit, pydeck, plotly
 
+🚧**Under Construction**
+- [Channel Infinity](https://github.com/MalteseWarrior/ChannelInfinityShowCase) -- react, netlify, vercel, n8n
+
 🖱️ **Proficiencies**
 Languages & Tools:
 - **Programming Languages:** Python, MATLAB, Java, HTML, JavaScript, Typescript
