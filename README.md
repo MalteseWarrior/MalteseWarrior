@@ -15,6 +15,9 @@ Junior at University of Notre Dame
 - **GitHub:** [MalteseWarrior](https://github.com/MalteseWarrior)
 
 🏁**Finished Projects**
+- [Viscoelasticity ICNN Analysis](https://github.com/MalteseWarrior/ViscoelasticityICNN) -- JAX, input Convext Neural Networks, viscoelasticity, streamlit
+
+
 - [Data Science Portfolio](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO) -- Includes The Projects Below
 - [Basic Streamlit App](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/basic-streamlit-app) - Streamlit
 - [Slashing Data with Wolverine](https://github.com/MalteseWarrior/GOULD--PYTHON--PORTFOLIO/tree/main/TidyData-Project) - Pygame, pandas, sprites
