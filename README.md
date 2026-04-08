@@ -33,9 +33,10 @@ Languages & Tools:
 - **CAD Software:** SolidWorks, Fusion
 - **Program Design Tools:** Unity, Inkscape, Procreate
 
-🥅 **2025 Goals**
-- Become proficient in Neural Network modeling -> Check out my Viscoelastic ICNN
-- Learn other 3D programs such as Rivet, Blender, and Sculpt.
+🥅 **2026 Goals**
+- Develop more AI Automated Workflows
+- Research Capture the Flag Claude Competency
+- Keep Learning
 - Get through another semester of Aerospace Engineering 💪
 
 ⭐ **About me:**
