@@ -6,7 +6,7 @@
 
 Junior at University of Notre Dame
 - **Major:** Aerospace Engineering
-- **Minor:** Computing & Digital Studies
+- **Minor:** Computational Digital Technologies
 
 ✉️ **Contact**
 - **Email:** gingergould22@gmail.com
